@@ -12,4 +12,4 @@ Uruchomienie:
 
 javac App.java
 
-java -cp .:/home/z3nd0g/Schreibtisch/mojBD/mysql-connector-java-5.1.46.jar App
+java -cp .:mysql-connector-java-5.1.46.jar App
